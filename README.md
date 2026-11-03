@@ -10,6 +10,8 @@ Estudante de Engenharia Informática no Porto. Escrevo CLIs, automação e apps 
 
 [upwork-projects](https://github.com/muxima127-arch/upwork-projects): dez mini-projetos de automação e web. Conversor, scraper, API REST, Excel.
 
-Stack: Python, TypeScript, C, Next.js, FastAPI, Supabase.
+[gemini-ponte](https://github.com/muxima127-arch/gemini-ponte), [copilot-ponte](https://github.com/muxima127-arch/copilot-ponte) e [perplexity-ponte](https://github.com/muxima127-arch/perplexity-ponte): comandos de terminal que deixam o Claude Code (ou eu) fazer uma pergunta ao Gemini, ao GitHub Copilot ou ao Perplexity e receber só a resposta. Shell.
 
-Contacto: abre um issue em qualquer um dos repos acima.
+Stack: Python, TypeScript, C, Shell, Next.js, FastAPI, Supabase.
+
+Contacto: aqui mesmo, pelo GitHub. Abre um issue em qualquer um dos repos acima e eu respondo.
